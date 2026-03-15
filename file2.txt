@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 DevOps practical project
+=======
+DevOps practical project 
+>>>>>>> ebbae77f72b990499376b0638c31c0e6189c268d
